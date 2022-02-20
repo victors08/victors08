@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, me chamo Victor Santos</h1>
+<h1 align="center">Oi, me chamo Victor Santos 👋</h1>
 <h3 align="center">Developer Web Front-end</h3>
 
 <h3 align="left">Git status:</h3>
